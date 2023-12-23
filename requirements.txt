@@ -1,0 +1,4 @@
+fake_useragent
+pillow
+requests
+requests_html

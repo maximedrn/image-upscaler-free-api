@@ -1,0 +1,11 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "bytesio",
+        "tryit",
+        "Upscaler",
+        "useragent",
+        "uuidtoken"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
